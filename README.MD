@@ -55,7 +55,7 @@ lib_deps =
 
 **1. Clone o Repositório**
 ```bash
-git clone [https://github.com/juliootto/interruptor-Inteligente.git](https://github.com/juliootto/interruptor-Inteligente.git)
+git clone https://github.com/juliootto/interruptor-Inteligente.git
 cd seu-repositorio
 ```
 
